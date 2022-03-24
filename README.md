@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @yuseok
-- 👀 I’m interested in ... Mobile platform, Web front end, etc
+- 👀 I’m interested in ... Mobile platform, Web, Embeded, etc
 - 🌱 I’m currently learning ... Modern Mobile development, Back-end server development
 - 💞️ I’m looking to collaborate on ... Everybody!
 - 📫 How to reach me ... oysu@naver.com
